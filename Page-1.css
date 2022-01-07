@@ -1,0 +1,124 @@
+ .u-section-1 {
+  background-image: url("images/5ec2d3281985a1a67d0ce011eadd96311de8daee992a5b36d3505656db12bf8c67c305fcf647225935e2c6591b685428e38570f4c8dc92b286ff0e_1280.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: 2px -2px 8px 0 rgba(128,128,128,1);
+  margin: 100px auto 0;
+  padding: 9px 105px 11px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: 2px -2px 8px 0 rgba(128,128,128,1);
+  margin: 20px auto 0;
+  padding: 9px 109px 11px 108px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: 2px -2px 8px 0 rgba(128,128,128,1);
+  margin: 30px auto 0;
+  padding: 9px 90px 11px 89px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: 2px -2px 8px 0 rgba(128,128,128,1);
+  margin: 20px auto 0;
+  padding: 10px 90px 10px 89px;
+}
+
+.u-section-1 .u-btn-5 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  box-shadow: 2px -2px 8px 0 rgba(128,128,128,1);
+  margin: 20px auto 60px;
+  padding: 10px 89px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-1 {
+    align-self: center;
+  }
+
+  .u-section-1 .u-btn-2 {
+    align-self: center;
+  }
+
+  .u-section-1 .u-btn-3 {
+    align-self: center;
+  }
+
+  .u-section-1 .u-btn-4 {
+    align-self: center;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding-right: 102px;
+    padding-left: 102px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 28px;
+    padding-right: 108px;
+    padding-left: 107px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    font-size: 1rem;
+    margin-top: 32px;
+    padding-right: 89px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    font-size: 1rem;
+    margin-top: 32px;
+    padding-right: 89px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    font-size: 1rem;
+    align-self: center;
+    margin-top: 28px;
+  }
+}
